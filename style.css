@@ -134,7 +134,7 @@ nav ul li a:hover {
   display: inline-block;
   border-radius: 6px;
   border: 1px solid var(--primaryColor);
-  color: var(--primaryColor);
+  color: white;
   padding: 10px 30px;
   text-decoration: none;
   transition: .5s;
