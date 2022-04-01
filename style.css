@@ -317,6 +317,7 @@ nav ul li a:hover {
   }
   .curve {
     height: 200px;
+    display: none;
   }
   .showcase-form {
     margin: 2rem auto 0;
